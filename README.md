@@ -1,5 +1,4 @@
 ## I'm Brian Flynn.
-@brianflynnlol
 
 I am currently *learning*:
 - HTML
@@ -7,7 +6,7 @@ I am currently *learning*:
 - The Hugo Static Site Generator
 
 Contact me:
-{brian@brianflynn.org}(mailto:brian@brianflynn.org}
+[brian@brianflynn.org](mailto:brian@brianflynn.org}
 
 <!--
 **brianflynnlol/brianflynnlol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
